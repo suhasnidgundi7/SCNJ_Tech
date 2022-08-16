@@ -5,9 +5,9 @@ import sys
 
 
 databaseConnection = {
-    "host": 'localhost',
+    "host": '43.204.116.41',
     "user": 'suhasnidgundi',
-    "password": 'Suhas@123',
+    "password": 'root',
     "db": 'scnj',
     "charset": 'utf8',
     "cursorclass": pymysql.cursors.DictCursor
